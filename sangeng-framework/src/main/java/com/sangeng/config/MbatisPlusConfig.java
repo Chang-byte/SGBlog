@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @Author 三更  B站： https://space.bilibili.com/663528522
+ * @Author chang
  */
 @Configuration
 public class MbatisPlusConfig {

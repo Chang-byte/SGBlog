@@ -8,7 +8,7 @@ import com.sangeng.service.RoleMenuService;
 import org.springframework.stereotype.Service;
 
 /**
- * @Author 三更  B站： https://space.bilibili.com/663528522
+ * @Author chang
  */
 @Service
 public class RoleMenuServiceImpl extends ServiceImpl<RoleMenuMapper, RoleMenu> implements RoleMenuService {

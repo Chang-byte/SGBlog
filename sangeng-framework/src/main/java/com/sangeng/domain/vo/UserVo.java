@@ -6,7 +6,7 @@ import lombok.experimental.Accessors;
 import java.util.Date;
 
 /**
- * @Author 三更  B站： https://space.bilibili.com/663528522
+ * @Author chang
  */
 @Data
 @Accessors(chain = true)

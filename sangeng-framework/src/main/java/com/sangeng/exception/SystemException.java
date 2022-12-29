@@ -3,7 +3,7 @@ package com.sangeng.exception;
 import com.sangeng.enums.AppHttpCodeEnum;
 
 /**
- * @Author 三更  B站： https://space.bilibili.com/663528522
+ * @Author chang
  */
 public class SystemException extends RuntimeException{
 

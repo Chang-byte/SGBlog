@@ -9,7 +9,7 @@ import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @Author 三更  B站： https://space.bilibili.com/663528522
+ * @Author chang
  */
 @RestController
 @RequestMapping("/content/link")

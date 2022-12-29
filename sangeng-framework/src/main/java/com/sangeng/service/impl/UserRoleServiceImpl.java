@@ -7,7 +7,7 @@ import com.sangeng.service.UserRoleService;
 import org.springframework.stereotype.Service;
 
 /**
- * @Author 三更  B站： https://space.bilibili.com/663528522
+ * @Author chang
  */
 @Service
 public class UserRoleServiceImpl extends ServiceImpl<UserRoleMapper, UserRole> implements UserRoleService {
